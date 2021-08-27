@@ -1,4 +1,4 @@
-* [项目介绍](ProjectIntroduction.md)
+* [项目介绍](guide.md)
 * **操作文档**
   * [存币和取币](action/存币和取币.md)
   * [借币和还币](action/借币和还币.md)
