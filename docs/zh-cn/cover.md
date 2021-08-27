@@ -7,4 +7,4 @@
 * 去中心化、安全、高效、高收益
 
 [GitHub](https://github.com/doubleeagledoe/doe-docs)
-[开始学习](/zh-cn/README)
+[开始](/zh-cn/README)
