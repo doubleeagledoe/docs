@@ -1,4 +1,4 @@
-* [项目介绍](/zh-cn/)
+* [项目介绍](/zh-cn/README)
 * **操作文档**
   * [存币和取币](zh-cn/action/存币和取币.md)
   * [借币和还币](zh-cn/action/借币和还币.md)

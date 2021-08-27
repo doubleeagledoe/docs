@@ -1,4 +1,4 @@
-* [Project Info](/)
+* [Project Info](/README)
 * **Operation document**
   * [Deposit and withdrawal](action/DepositAndWithdrawal.md)
   * [Borrowing and repayment](action/BorrowingAndRepayment.md)
