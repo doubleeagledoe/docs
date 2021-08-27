@@ -1,11 +1,11 @@
 * [Project Info](guide.md)
-* **操作文档**
+* **Operation document**
   * [Deposit and withdrawal](action/存币和取币.md)
   * [Borrowing and repayment](action/借币和还币.md)
   * [Pledge](action/质押.md)
   * [Invite](action/邀请.md)
   * [Voteing](action/投票.md)
-* **帮助中心**
+* **Help center**
   * [Deposits and withdrawals](helper/存币和取币.md)
   * [Borrowing and repayment](helper/借币和还币.md)
   * [Liquidation](helper/清算.md)
