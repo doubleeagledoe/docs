@@ -1,4 +1,4 @@
-# Double Eagle
+# Double Eagle Info
 
 
 Double Eagle is a protocol on the blockchain. It establishes the money market. It is a token pool with algorithm derivation rate based on the supply-demand relationship of tokens.
