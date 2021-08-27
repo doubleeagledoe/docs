@@ -1,5 +1,5 @@
-# Double Eagle Info
+# Double Eagle 简介
 
 
-Double Eagle is a protocol on the blockchain. It establishes the money market. It is a token pool with algorithm derivation rate based on the supply-demand relationship of tokens.
-Double Eagle will use distributed ledger technology, including blockchain, cryptocurrency, smart contract and other technologies to provide services such as loan, financing, stable currency, flash loan and liquidity mining.
+Double Eagle是区块链上的协议。它建立了货币市场，它是一个基于令牌供需关系的令牌池。
+Double Eagle将使用分布式账本技术，包括区块链、加密货币、智能合约等技术，提供贷款、融资、稳定货币、闪电贷款、流动性挖掘等服务。
