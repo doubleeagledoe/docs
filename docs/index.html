@@ -10,16 +10,30 @@
 </head>
 <body>
   <nav>
-    <a href="#/guide">EN</a>
-    <a href="#/zh-cn/guide">中文</a>
+    <a href="#/">EN</a>
+    <a href="#/zh-cn/">中文</a>
   </nav>
   <div id="app"></div>
   <script>
     window.$docsify = {
       name: 'Double Eagle',
       repo: 'https://github.com/doubleeagledoe/doe-docs',
-      loadSidebar: true,
-      coverpage: false
+      loadSidebar: 'sidebar.md',
+      auto2top: true,
+      coverpage: true,
+      onlyCover: false,
+      // homepage: 'guide.md',
+      themeColor: '#3F51B5',
+      // ext: '.md',
+      // notFoundPage: 'my404.md',
+      coverpage: {
+        '/': 'cover.md',
+        '/zh-cn/': 'cover.md',
+      },
+      requestHeaders: {
+        'cache-control': 'max-age=600',
+      },
+      routerMode: 'hash', // default: 'hash'
     }
   </script>
   <!-- Docsify v4 -->
