@@ -6,8 +6,8 @@
   * [邀请](action/邀请.md)
   * [投票](action/投票.md)
 * **帮助中心**
-  * [存款和取款](helper/存款和取款.md)
-  * [借款和还款](helper/借款和还款.md)
+  * [存款和取款](helper/存币和取币.md)
+  * [借款和还款](helper/借币和还币.md)
   * [清算](helper/清算.md)
   * [投票](helper/投票.md)
   * [质押](helper/质押.md)
