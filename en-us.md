@@ -1,3 +1,8 @@
+<style>
+body { background-color: #000 !important; }
+h1,h2,h3,h4,h5,h6,h7,p { color: #999 !important; }
+</style>
+
 # Double Eagle Operation Document
 # Deposit and Withdrawal
 
@@ -211,8 +216,3 @@ If you find anything suspicious on the DoubleEagle platform, please report it to
 The smart contract security of DoubleEagle platform is mainly guaranteed in the following three aspects:
 Experienced contract developers: all DoubleEagle contract developers have extensive industry experience. They are very familiar with various disclosed contract loopholes. In technical cooperation with other teams, they found various security vulnerabilities.
 Multiple audit mechanism: before the formal launch of the smart contract of DoubleEagle platform, it will be comprehensively audited by at least one well-known security organization in the industry, and different modules will also be subject to internal cross audit. Double test the security of online code through internal review meeting, simulated security attack and defense and other forms to eliminate possible security risks and logic vulnerabilities.   
-
-<style>
-body { background-color: #000 !important; }
-h1,h2,h3,h4,h5,h6,h7,p { color: #999 !important; }
-</style>
