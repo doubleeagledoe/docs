@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8">
   <title>Double Eagle</title>
@@ -8,7 +9,31 @@
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+  <style>
+    .ready,
+    .sidebar,
+    .sidebar-toggle,
+    .sidebar ul li a,
+    .anchor span,
+    .markdown-section h1,
+    .markdown-section h2,
+    .markdown-section h3,
+    .markdown-section h4,
+    .markdown-section strong {
+      background-color: #1b1a1f;
+      color: #eee;
+    }
+
+    .cover.show {
+      color: #eee;
+    }
+
+    .app-nav {
+      color: #eee;
+    }
+  </style>
 </head>
+
 <body>
   <nav>
     <a href="#/README">EN</a>
@@ -21,12 +46,13 @@
       repo: 'https://github.com/doubleeagledoe/doe-docs',
       loadSidebar: 'sidebar.md',
       auto2top: true,
-      coverpage: true,
-      onlyCover: true,
+      // coverpage: true,
       // homepage: 'guide.md',
       themeColor: '#3F51B5',
+      // themeColor: '#1b1a1f',
       // ext: '.md',
       // notFoundPage: 'my404.md',
+      onlyCover: true,
       coverpage: {
         '/': 'cover.md',
         '/zh-cn/': 'cover.md',
@@ -40,4 +66,5 @@
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
 </body>
+
 </html>

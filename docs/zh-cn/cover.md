@@ -8,3 +8,5 @@
 
 [GitHub](https://github.com/doubleeagledoe/doe-docs)
 [开始](/zh-cn/README)
+
+![color](#1b1a1f)
