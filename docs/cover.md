@@ -1,11 +1,10 @@
 ![logo](images/favicon.png)
 # Double Eagle
 
-> The most mainstream DeFi decentralized lending and mining
+> Double Eagle will redefine trust
+### Free trading is so simple
 
 * Decentralized, safe, efficient, high-yield
-
-
 
 
 [GitHub](https://github.com/doubleeagledoe/doe-docs)
