@@ -1,8 +1,7 @@
 ![logo](images/favicon.png)
 # Double Eagle
 
-> Double Eagle will redefine trust
-### Free trading is so simple
+> Double Eagle will redefine trust, Free trading is so simple
 
 * Decentralized, safe, efficient, high-yield
 
